@@ -1,0 +1,6 @@
+Elasticsearch
+numpy
+pandas
+matplotlib
+seaborn
+sentence-transformer
